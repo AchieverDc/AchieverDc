@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Blockchain Technology
 - 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to collaborate on Community Focused Projects
-- 📫 How to reach me achiva3@proton.me
+- 📫 How to reach me jeremiahtani44@proton.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an avid learner
 
