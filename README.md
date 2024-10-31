@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AchieverDc
+- 👋 Hi, I’m Jeremiah Tani
 - 👀 I’m interested in Software Development and Blockchain Technology
 - 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to collaborate on Community Focused Projects
