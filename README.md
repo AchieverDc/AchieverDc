@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jeremiah Tani
+- 👋 Hi, I’m Jeremiah Tani a Network Engineer
 - 👀 I’m interested in Software Development and Blockchain Technology
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently into Full-Stack Web Development
 - 💞️ I’m looking to collaborate on Community Focused Projects
 - 📫 How to reach me jeremiahtani44@proton.me
 - 😄 Pronouns: ...
